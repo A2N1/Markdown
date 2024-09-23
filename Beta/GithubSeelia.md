@@ -3,7 +3,7 @@
 ## Seelia
 Text
 
-![visitcount](https://visitcount.itsvg.in/api?id=A2N1&label=Profile%20Views&color=12&icon=1&pretty=true)
+![visitcount](https://visitcount.itsvg.in/api?id=Seeliaa&label=Profile%20Views&color=12&icon=1&pretty=true)
 
 ## Stack
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
