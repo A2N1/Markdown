@@ -42,7 +42,7 @@ link
 [title](http://www.google.com)
 
 Image
-![alt text](pexels-pixabay-247599.jpg)
+![alt text](/images/pexels-pixabay-247599.jpg)
 
 ### **Extended Syntax**
 
@@ -101,3 +101,5 @@ X<sub>2</sub>
 >>> Text
 >>>> Text
 >>>>> Text
+
+Strg + Shift + V ==> Preview
