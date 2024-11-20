@@ -1,6 +1,6 @@
 # Markdown
 
-![MarkdownLogo](/images/298823_markdown_icon.png)
+![MarkdownLogo](/images/MarkdownLogoMittel.png)
 
 Markdown allows users to write formatted text using simple and intuitive syntax.
 It is commonly used in creating README files, documentation, and static blogs.
