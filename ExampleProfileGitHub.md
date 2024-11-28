@@ -8,6 +8,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ![Describtion](https Link)
 
+![examplepicture](/Markdown/images/pexels-kevin-ku-92347-577585.jpg)
+
 ---
 
 **`Text`**
