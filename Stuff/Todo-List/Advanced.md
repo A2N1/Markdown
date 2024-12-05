@@ -54,24 +54,29 @@ gantt
     Plan Advanced Project  : 2024-12-11, 2024-12-15
 ```
 
-🛡️ Priorities Key
+## 🛡️ Priorities Key
 
-    🔴 High: Needs immediate attention.
-    🟠 Medium: Important but not urgent.
-    🟢 Low: Can be done later.
+- 🔴 High: Needs immediate attention.
+- 🟠 Medium: Important but not urgent.
+- 🟢 Low: Can be done later.
 
-📚 Resources
+---
 
-    Markdown Guide
-    Mermaid Diagrams
-    Task Management Tools
+## 📚 Resources
 
-✨ Additional Features
+- [Markdown Guide](https://www.markdownguide.org)
+- [Mermaid Diagrams](https://mermaid-js.github.io/mermaid)
+- [Task Management Tools](https://www.atlassian.com/software/confluence/guides/productivity)
 
-    Mermaid Diagrams: Visualize task timelines.
-    Tables: Track tasks, priorities, and deadlines.
-    Subtasks: Break down large tasks into manageable steps.
+---
 
+## ✨ Additional Features
+
+- **Mermaid Diagrams:** Visualize task timelines.
+- **Tables:** Track tasks, priorities, and deadlines.
+- **Subtasks:** Break down large tasks into manageable steps.
+
+---
 
 ### Features Added:
 1. **Tables:** Organize tasks with status, priority, and deadlines.
