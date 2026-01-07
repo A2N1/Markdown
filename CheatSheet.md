@@ -42,7 +42,7 @@ link
 [title](http://www.google.com)
 
 Image
-![alt text](/Markdown/images/pexels-pixabay-247599.jpg)
+![alt text](/images/pexels-pixabay-247599.jpg)
 
 ### **Extended Syntax**
 
