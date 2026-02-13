@@ -43,6 +43,7 @@ link
 
 Image
 ![alt text](/images/pexels-pixabay-247599.jpg)
+![examplepicture](/images/pexels-kevin-ku-92347-577585.jpg)
 
 ### **Extended Syntax**
 
@@ -103,3 +104,6 @@ X<sub>2</sub>
 >>>>> Text
 
 Strg + Shift + V ==> Preview
+
+## Beispieltext
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
